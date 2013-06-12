@@ -1,0 +1,665 @@
+<?xml version="1.0"?>
+<store url="http://muffinkids.com.au/cron1.php/" date="08-12-2012" time="02:32:38" name="Default Store View">
+  <products>
+    <product>
+      <num>42</num>
+      <attribute1>Action Sports 7 ft Pool Table - Blue</attribute1>
+      <upc>S000989</upc>
+      <product_url>http://muffinkids.com.au/Child.php/action-sports-7-ft-pool-table-blue.html</product_url>
+      <manufacturer>Action Sports</manufacturer>
+      <category_name>Games Tables</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/0/s000989_7foot_blue.jpg</image>
+      <price>549</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>43</num>
+      <attribute1>Dunlop 6 ft Round Trampoline &amp; Enclosure</attribute1>
+      <upc>S000313</upc>
+      <product_url>http://muffinkids.com.au/Child.php/dunlop-6-ft-round-trampoline-enclosure-save-170.html</product_url>
+      <manufacturer>Dunlop</manufacturer>
+      <category_name>Products</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/u/dunlop_6_foot.jpg</image>
+      <price>299</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>44</num>
+      <attribute1>Action Sports 7 ft Flip Over Pool/Air Hockey Table</attribute1>
+      <upc>S000990</upc>
+      <product_url>http://muffinkids.com.au/Child.php/action-sports-7-ft-flip-over-pool-air-hockey-table.html</product_url>
+      <manufacturer>Action Sports</manufacturer>
+      <category_name>Games Tables</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/s/as-flip-over-500x500.jpg</image>
+      <price>649</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>48</num>
+      <attribute1>Action Sport 12 Foot Trampoline &amp; Enclosure</attribute1>
+      <upc>S000432, S000433</upc>
+      <product_url>http://muffinkids.com.au/Child.php/action-sport-12-foot-trampoline-enclosure.html</product_url>
+      <manufacturer>Action Sports</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/2/12-foot-round-tramp-500x500.jpg</image>
+      <price>439</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>49</num>
+      <attribute1>Action Sports 14 ft Round Trampoline &amp; Enclosure</attribute1>
+      <upc>S000428, S000429</upc>
+      <product_url>http://muffinkids.com.au/Child.php/action-sports-14-ft-round-trampoline-enclosure.html</product_url>
+      <manufacturer>Action Sports</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/k/s/ks0140n_-_thumbnail.jpg</image>
+      <price>499</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>53</num>
+      <attribute1>Action Sports 4 Unit Swing Set &amp; Slide</attribute1>
+      <upc>PGY0150bl</upc>
+      <product_url>http://muffinkids.com.au/Child.php/action-sports-4-unit-swing-set-slide-1.html</product_url>
+      <manufacturer>Action Sports</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/c/action-sports-4-unit--slid-500x500.jpg</image>
+      <price>259</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>55</num>
+      <attribute1>Action Sports 4 Unit Slide &amp; Toddler Swing</attribute1>
+      <upc>pgy0150 and toddler swing</upc>
+      <product_url>http://muffinkids.com.au/Child.php/action-sports-4-unit-slide-toddler-swing.html</product_url>
+      <manufacturer>Action Sports</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/c/action-sports-4-unit--slid-500x500.jpg</image>
+      <price>358</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>56</num>
+      <attribute1>Action Sports 4 Unit Swing Set &amp; See Saw</attribute1>
+      <upc>S000665</upc>
+      <product_url>http://muffinkids.com.au/Child.php/action-sports-4-unit-swing-set-see-saw.html</product_url>
+      <manufacturer>Action Sports</manufacturer>
+      <category_name>Swing Sets</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/0/s000449.900x430.jpg</image>
+      <price>249</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>58</num>
+      <attribute1>Action Sports 8 ft Round Trampoline &amp; Enclosure</attribute1>
+      <upc>S000435</upc>
+      <product_url>http://muffinkids.com.au/Child.php/action-sports-8-ft-round-trampoline-enclosure.html</product_url>
+      <manufacturer>Action Sports</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/8/-/8-foot-tramp---ks0080e-500x500.jpg</image>
+      <price>249</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>59</num>
+      <attribute1>Hills Gorilla Swing Set - Save $20</attribute1>
+      <upc> FK211158 </upc>
+      <product_url>http://muffinkids.com.au/Child.php/hills-gorilla-swing-set.html</product_url>
+      <manufacturer>Hills</manufacturer>
+      <category_name>On Sale</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/i/hills-gorilla-4-unit-500x500.jpg</image>
+      <price>239</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>60</num>
+      <attribute1>Activity Climber</attribute1>
+      <upc>PGC0004</upc>
+      <product_url>http://muffinkids.com.au/Child.php/activity-climber.html</product_url>
+      <manufacturer>Ampi Plastics</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/c/activity-climber_large-500x500.jpg</image>
+      <price>219</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>61</num>
+      <attribute1>Activity Garage</attribute1>
+      <upc>PGC0001</upc>
+      <product_url>http://muffinkids.com.au/Child.php/activity-garage.html</product_url>
+      <manufacturer>Ampi Plastics</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/c/activicty-garage_large-500x500.jpg</image>
+      <price>219</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>62</num>
+      <attribute1>Activity Playgym - FREE SHIPPING</attribute1>
+      <upc>298471</upc>
+      <product_url>http://muffinkids.com.au/Child.php/activity-playgym-free-shipping.html</product_url>
+      <manufacturer>Ampi Plastics</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/c/activity_playgym_550-x-430-500x500.jpg</image>
+      <price>189</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>63</num>
+      <attribute1>Activity Playhouse - FREE SHIPPING - NOT WA</attribute1>
+      <upc>298430</upc>
+      <product_url>http://muffinkids.com.au/Child.php/activity-playhouse-free-shipping.html</product_url>
+      <manufacturer>Ampi Plastics</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/c/activity-playhouse_large2-500x500.jpg</image>
+      <price>289</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>65</num>
+      <attribute1>Action Sports Turbo Air Hockey Table</attribute1>
+      <upc>GT8000</upc>
+      <product_url>http://muffinkids.com.au/Child.php/action-sports-turbo-air-hockey-table.html</product_url>
+      <manufacturer>Action Sports</manufacturer>
+      <category_name>Games Tables</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/g/t/gt8000.jpg</image>
+      <price>449</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>66</num>
+      <attribute1>Action Sports Regulation Size Table Tennis Table </attribute1>
+      <upc>TTTOD15</upc>
+      <product_url>http://muffinkids.com.au/Child.php/action-sports-regulation-size-table-tennis-table.html</product_url>
+      <manufacturer>Action Sports</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/s/as-delux-tt-500x500.jpg</image>
+      <price>349</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>67</num>
+      <attribute1>Step 2 Front Porch Playhouse - FREE SHIPPING</attribute1>
+      <upc>326305</upc>
+      <product_url>http://muffinkids.com.au/Child.php/step-2-front-porch-playhouse-free-shipping.html</product_url>
+      <manufacturer>Step 2</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/f/r/front-porch-playhouse-front-large-500x500.jpg</image>
+      <price>749</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>79</num>
+      <attribute1>Ampi Extension Kit</attribute1>
+      <upc>298463</upc>
+      <product_url>http://muffinkids.com.au/Child.php/ampi-extension-kit.html</product_url>
+      <manufacturer>Ampi Plastics</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/x/extension-kit-500x500.jpg</image>
+      <price>69</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>83</num>
+      <attribute1>Maxi Climber - FREE SHIPPING - NOT WA</attribute1>
+      <upc>298414</upc>
+      <product_url>http://muffinkids.com.au/Child.php/maxi-climber-free-shipping.html</product_url>
+      <manufacturer>Ampi Plastics</manufacturer>
+      <category_name>On Sale</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/g/e/generic-maxi-climber-poster-500x500.jpg</image>
+      <price>359</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>84</num>
+      <attribute1>Action Sports Toddler Swing - FREE SHIPPING</attribute1>
+      <upc>Toddler Swing</upc>
+      <product_url>http://muffinkids.com.au/Child.php/action-sports-toddler-swing.html</product_url>
+      <manufacturer>Action Sports</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/o/toddler-swing-large-500x500.jpg</image>
+      <price>99</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>85</num>
+      <attribute1>Hills Climber Vine</attribute1>
+      <upc>FK211403</upc>
+      <product_url>http://muffinkids.com.au/Child.php/hills-climber-vine.html</product_url>
+      <manufacturer>Hills</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/l/climber_vine_large-500x500.jpg</image>
+      <price>79</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>86</num>
+      <attribute1>Vasia Caterpillar Tunnel</attribute1>
+      <upc>VS730</upc>
+      <product_url>http://muffinkids.com.au/Child.php/vasia-caterpillar-tunnel.html</product_url>
+      <manufacturer>Vasia</manufacturer>
+      <category_name>Play Gyms / Climbers</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/a/caterpillar-tunnel-vs730-500x500.jpg</image>
+      <price>289</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>88</num>
+      <attribute1>Hills Lemur Swing Set</attribute1>
+      <upc> FK211052 </upc>
+      <product_url>http://muffinkids.com.au/Child.php/hills-lemur-swing-set.html</product_url>
+      <manufacturer>Hills</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/i/hills-3-unit-lemur-+-junior-jungle-swing-500x500.jpg</image>
+      <price>269</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>89</num>
+      <attribute1>Hills Liana Ladder</attribute1>
+      <upc>FK211402</upc>
+      <product_url>http://muffinkids.com.au/Child.php/hills-liana-ladder.html</product_url>
+      <manufacturer>Hills</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/i/liana-ladder-500x500.jpg</image>
+      <price>49</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>90</num>
+      <attribute1>Hills Junior Jungle Swing</attribute1>
+      <upc>FK211404</upc>
+      <product_url>http://muffinkids.com.au/Child.php/hills-junior-jungle-swing.html</product_url>
+      <manufacturer>Hills</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/i/hills-junior-jungle-swing-500x500.jpg</image>
+      <price>69</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>91</num>
+      <attribute1>Hills Trapeze Swing</attribute1>
+      <upc>FK211401</upc>
+      <product_url>http://muffinkids.com.au/Child.php/hills-trapeze-swing.html</product_url>
+      <manufacturer>Hills</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/i/hills-trapeze-swing-500x500.jpg</image>
+      <price>49</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>95</num>
+      <attribute1>Eurotrike - Tandem Trike - Fire - XG25</attribute1>
+      <upc>XG25</upc>
+      <product_url>http://muffinkids.com.au/Child.php/eurotrike-fire-tandem-trike-xg25.html</product_url>
+      <manufacturer>Eurotrike</manufacturer>
+      <category_name>On Sale</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/a/tandem-fire-large-500x500.jpg</image>
+      <price>149</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>98</num>
+      <attribute1>Eurotrike - Playsafe 2 - Boys - XG28</attribute1>
+      <upc>XG28</upc>
+      <product_url>http://muffinkids.com.au/Child.php/playsafe-2-boys-et028.html</product_url>
+      <manufacturer>Eurotrike</manufacturer>
+      <category_name>Bikes &amp; Trikes</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/t/et028-playsafe-2-boys-500x500.jpg</image>
+      <price>149</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>99</num>
+      <attribute1>Eurotrike - Playsafe 2 - Girls -  XG33</attribute1>
+      <upc>XG33</upc>
+      <product_url>http://muffinkids.com.au/Child.php/playsafe-2-girls-xg33.html</product_url>
+      <manufacturer>Eurotrike</manufacturer>
+      <category_name>Bikes &amp; Trikes</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/t/et029-playsafe-2-girls-500x500.jpg</image>
+      <price>149</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>100</num>
+      <attribute1>Eurotrike - Tandem Trike - Police - XG26</attribute1>
+      <upc>XG26</upc>
+      <product_url>http://muffinkids.com.au/Child.php/eurotrike-police-tandem-trike-xg26.html</product_url>
+      <manufacturer>Eurotrike</manufacturer>
+      <category_name>On Sale</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/o/police-500x500.jpg</image>
+      <price>149</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>101</num>
+      <attribute1>Eurotrike - Ultima Canopy - Boys - XG40</attribute1>
+      <upc>XG40</upc>
+      <product_url>http://muffinkids.com.au/Child.php/eurotrike-canopy-boys-trike-xg40.html</product_url>
+      <manufacturer>Eurotrike</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/t/et040-550x550-500x500.jpg</image>
+      <price>189</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>102</num>
+      <attribute1>Eurotrike - Ultima Canopy -  Girls - XG41</attribute1>
+      <upc>XG41</upc>
+      <product_url>http://muffinkids.com.au/Child.php/eurotrike-ultima-canopy-girls-trike-xg41.html</product_url>
+      <manufacturer>Eurotrike</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/t/et041-550x550-500x500.jpg</image>
+      <price>189</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>105</num>
+      <attribute1>Step 2 Modern Lines Kitchen</attribute1>
+      <upc>ST891100</upc>
+      <product_url>http://muffinkids.com.au/Child.php/step-2-modern-lines-kitchen.html</product_url>
+      <manufacturer>Step 2</manufacturer>
+      <category_name>Kids Furniture</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/o/modern-lines-kitchen-front-500x500.jpg</image>
+      <price>269</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>106</num>
+      <attribute1>Eurotrike - Groovy Miss12 - AutoSteer - Purple - XG10</attribute1>
+      <upc>XG10</upc>
+      <product_url>http://muffinkids.com.au/Child.php/xero-groovy-miss-12-girls-bicycle-with-parents-steering-xg10.html</product_url>
+      <manufacturer>Eurotrike</manufacturer>
+      <category_name>Bikes &amp; Trikes</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/x/b/xb010-groovy-miss-large-500x500.jpg</image>
+      <price>179</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>107</num>
+      <attribute1>Eurotrike - Groovy Miss12 - AutoSteer - Pink - XG11</attribute1>
+      <upc>XG11</upc>
+      <product_url>http://muffinkids.com.au/Child.php/xero-groovy-miss-12-girls-bicycle-with-parents-steering-xg11.html</product_url>
+      <manufacturer>Eurotrike</manufacturer>
+      <category_name>Bikes &amp; Trikes</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/g/r/groovy-miss-xb011-pink-large-500x500.jpg</image>
+      <price>179</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>113</num>
+      <attribute1>Seal Table Rocker</attribute1>
+      <upc>Seal Table Rocker</upc>
+      <product_url>http://muffinkids.com.au/Child.php/seal-table-rocker.html</product_url>
+      <manufacturer>Ampi Plastics</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/m/ampi_table_rocker-500x500.jpg</image>
+      <price>99</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>114</num>
+      <attribute1>Hills Marmoset 3 Unit Swing Set - Save $30</attribute1>
+      <upc> FK211116 </upc>
+      <product_url>http://muffinkids.com.au/Child.php/hills-marmoset-3-unit-swing-set.html</product_url>
+      <manufacturer>Hills</manufacturer>
+      <category_name>On Sale</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/i/hills-marmoset-3-unit-500x500.jpg</image>
+      <price>199</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>116</num>
+      <attribute1>Action Sports Family Trampoline</attribute1>
+      <upc>KS0500AP</upc>
+      <product_url>http://muffinkids.com.au/Child.php/action-sports-family-trampoline.html</product_url>
+      <manufacturer>Action Sports</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/0/s000009-pic-500x500.jpg</image>
+      <price>329</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>117</num>
+      <attribute1>Action Sports Hercules Trampoline</attribute1>
+      <upc>KS0680AP.</upc>
+      <product_url>http://muffinkids.com.au/Child.php/action-sports-hercules-trampoline-1.html</product_url>
+      <manufacturer>Action Sports</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/k/s/ks0680ap.jpg</image>
+      <price>409</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>118</num>
+      <attribute1>Action Sports Junior Jumper Trampoline</attribute1>
+      <upc>S000193</upc>
+      <product_url>http://muffinkids.com.au/Child.php/action-sports-junior-jumper-trampoline.html</product_url>
+      <manufacturer>Action Sports</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/c/action-sports-junior-jumper-500x500.jpg</image>
+      <price>59</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>119</num>
+      <attribute1>Hills Chimpanzee Swing Set - Save $40</attribute1>
+      <upc> FK211078 </upc>
+      <product_url>http://muffinkids.com.au/Child.php/hills-chimpanzee-swing-set.html</product_url>
+      <manufacturer>Hills</manufacturer>
+      <category_name>On Sale</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/i/hills-chimpanzee-500x500.jpg</image>
+      <price>279</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>120</num>
+      <attribute1>Ampi Giant Slide</attribute1>
+      <upc>Ampi Giant Slide</upc>
+      <product_url>http://muffinkids.com.au/Child.php/giant-slide.html</product_url>
+      <manufacturer>Ampi Plastics</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/g/i/giant_slide_large_600-500x500.jpg</image>
+      <price>139</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>121</num>
+      <attribute1>Hills Orangutan Swing Set - Save $30</attribute1>
+      <upc> FK211132 </upc>
+      <product_url>http://muffinkids.com.au/Child.php/hills-orangutan-swing-set.html</product_url>
+      <manufacturer>Hills</manufacturer>
+      <category_name>On Sale</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/i/hills-orangutan-500x500.jpg</image>
+      <price>249</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>125</num>
+      <attribute1>Vasia Playground Slide &amp; Swing &amp; Basketball Set</attribute1>
+      <upc>VS712</upc>
+      <product_url>http://muffinkids.com.au/Child.php/vasia-playground-slide-swing-basketball-set.html</product_url>
+      <manufacturer>Vasia</manufacturer>
+      <category_name>Play Gyms / Climbers</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/l/playground-slide-swing-basketball-set-copy-of-vs712-500x500.jpg</image>
+      <price>279</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>126</num>
+      <attribute1>Vasia Bear Slide &amp; Basketball Set</attribute1>
+      <upc>VS701</upc>
+      <product_url>http://muffinkids.com.au/Child.php/vasia-bear-slide-basketball-set.html</product_url>
+      <manufacturer>Vasia</manufacturer>
+      <category_name>Play Gyms / Climbers</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/e/bear-slide-and-basketball-set-vs701-500x500.jpg</image>
+      <price>189</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>130</num>
+      <attribute1>Step 2 Lookout Treehouse Playhouse - FREE SHIPPING</attribute1>
+      <upc>326553</upc>
+      <product_url>http://muffinkids.com.au/Child.php/step-2-lookout-treehouse-playhouse-free-shipping.html</product_url>
+      <manufacturer>Step 2</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/d/edexphoto-500x500.jpg</image>
+      <price>329</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>131</num>
+      <attribute1>Playhouse - Playgym Combo - FREE SHIPPING NOT WA</attribute1>
+      <upc>298430 - 298471</upc>
+      <product_url>http://muffinkids.com.au/Child.php/activity-playhouse-playgym-combo-free-shipping.html</product_url>
+      <manufacturer>Ampi Plastics</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/o/combined-play-gyms-231kb-500x500.jpg</image>
+      <price>409</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>132</num>
+      <attribute1>Kogee 3 unit swing set - Save $50</attribute1>
+      <upc>AJK1302</upc>
+      <product_url>http://muffinkids.com.au/Child.php/kogee-3-unit-swing-set.html</product_url>
+      <manufacturer>Kogee</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/j/ajk1301-500x500.jpg</image>
+      <price>99</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>134</num>
+      <attribute1>Kogee Single Swing</attribute1>
+      <upc>AJK1300</upc>
+      <product_url>http://muffinkids.com.au/Child.php/kogee-single-swing.html</product_url>
+      <manufacturer>Kogee</manufacturer>
+      <category_name>Swing Sets</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/j/ajk1300-500x500.jpg</image>
+      <price>89</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>135</num>
+      <attribute1>Kogee 3 unit swing set and Toddler Swing</attribute1>
+      <upc>AJK1301, AJK1310</upc>
+      <product_url>http://muffinkids.com.au/Child.php/kogee-3-unit-swing-set-and-toddler-swing.html</product_url>
+      <manufacturer>Kogee</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/3/u/3unittoddler.550w-500x500.jpg</image>
+      <price>189</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>137</num>
+      <attribute1>Kogee Free Standing Slide</attribute1>
+      <upc>AJK1311</upc>
+      <product_url>http://muffinkids.com.au/Child.php/kogee-free-standing-slide.html</product_url>
+      <manufacturer>Kogee</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/j/ajk1311-500x500.jpg</image>
+      <price>149</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>138</num>
+      <attribute1>Kogee See Saw</attribute1>
+      <upc>AJK1314</upc>
+      <product_url>http://muffinkids.com.au/Child.php/kogee-see-saw.html</product_url>
+      <manufacturer>Kogee</manufacturer>
+      <category_name>See Saw</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/j/ajk1314-sea-saw-500x500.jpg</image>
+      <price>59</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>140</num>
+      <attribute1>Kogee Toddler Swing </attribute1>
+      <upc>AJK1310</upc>
+      <product_url>http://muffinkids.com.au/Child.php/kogee-toddler-swing.html</product_url>
+      <manufacturer>Kogee</manufacturer>
+      <category_name>Swing Set Accessories</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/j/ajk1310_toddler_swing-modified-500x500.jpg</image>
+      <price>59</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>141</num>
+      <attribute1>Hills Adda Slide - Save $30</attribute1>
+      <upc> FK211238 </upc>
+      <product_url>http://muffinkids.com.au/Child.php/hills-adda-slide-1.html</product_url>
+      <manufacturer>Hills</manufacturer>
+      <category_name>On Sale</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/n/enlarged-500x500.jpg</image>
+      <price>109</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>142</num>
+      <attribute1>Hills Free Standing Slide - Save $30</attribute1>
+      <upc> FK211246 </upc>
+      <product_url>http://muffinkids.com.au/Child.php/hills-free-standing-slide.html</product_url>
+      <manufacturer>Hills</manufacturer>
+      <category_name>On Sale</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/i/hills-free-standing-slide-enlarged-500x500.jpg</image>
+      <price>109</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>143</num>
+      <attribute1>Kogee Toddler Swing Set</attribute1>
+      <upc>AJK1304</upc>
+      <product_url>http://muffinkids.com.au/Child.php/kogee-toddler-swing-set.html</product_url>
+      <manufacturer>Kogee</manufacturer>
+      <category_name>Swing Sets</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/j/ajk1310-toddler-swing-500x500.jpg</image>
+      <price>79</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>149</num>
+      <attribute1>KBT Free Standing Ladder Kit for 2.5m slide</attribute1>
+      <upc>FSLadder 2.5m</upc>
+      <product_url>http://muffinkids.com.au/Child.php/kbt-free-standing-ladder-kit-for-2-5m-slide.html</product_url>
+      <manufacturer>KBT</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/./2.5ladder-kit-500x500.jpg</image>
+      <price>159</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>150</num>
+      <attribute1>KBT Free Standing Ladder Kit for 3.1m slide</attribute1>
+      <upc>FSLadder 3.1</upc>
+      <product_url>http://muffinkids.com.au/Child.php/kbt-free-standing-ladder-kit-for-3-1m-slide.html</product_url>
+      <manufacturer>KBT</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/./2.5ladder-kit-500x500.jpg</image>
+      <price>189</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>152</num>
+      <attribute1>KBT HDPE S-Line Cubby Slide 3.1m RED</attribute1>
+      <upc>414.015.00X.001 - Red</upc>
+      <product_url>http://muffinkids.com.au/Child.php/kbt-hdpe-s-line-slide-3-1m-red.html</product_url>
+      <manufacturer>KBT</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/3/m/3m-red-s-line_2.jpg</image>
+      <price>259</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>155</num>
+      <attribute1>KBT HDPE Spiral Cubby Slide </attribute1>
+      <upc>4200x</upc>
+      <product_url>http://muffinkids.com.au/Child.php/kbt-hdpe-spiral-cubby-slide.html</product_url>
+      <manufacturer>KBT</manufacturer>
+      <category_name>Outdoor Play</category_name>
+      <image>http://muffinkids.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/4/2/4200xspiral-slide-500x500.jpg</image>
+      <price>799</price>
+      <currency>AUS</currency>
+    </product>
+    <product>
+      <num>15

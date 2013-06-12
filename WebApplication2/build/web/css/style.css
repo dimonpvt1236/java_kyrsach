@@ -1,0 +1,193 @@
+/* 
+    Document   : style
+    Created on : 02.06.2013, 13:18:17
+    Author     : Starik
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.body {
+    width: 900px;
+    margin: 0 auto;
+}
+
+body {
+    background: #ddd;
+}
+
+.top-menu ul li{
+    position: relative;
+    float: left;
+    margin-left: 20px;
+    color: grey;
+    background: #F8F8F8;
+    border-radius: 5px;
+    box-shadow: #DDFFE6 -1px -1px 3px 2px, #DDFFE6 2px 2px 5px 2px;
+    padding: 1px 5px 1px 5px;
+    
+}
+.top-menu ul li:hover{
+    position: relative;
+    float: left;
+    margin-left: 20px;
+    color: grey;
+    background: #F8F8F8;
+    border-radius: 5px;
+    box-shadow: #94FF8E -1px -1px 3px 2px, #94FF8E 2px 2px 5px 2px;
+    
+}
+.top-menu ul li a {
+    color: grey;
+    text-decoration: none;
+}
+.top-menu ul {
+    list-style: none;
+}
+.top-menu {
+    position: relative;
+    float: right;
+    margin-right: 20px;
+    top: 50px;
+}
+.head {
+    margin-top: 10px;
+    width: 900px;
+    height: 100px;
+    background: url("../images/bg_head.gif") repeat;
+    border-radius: 10px;
+    box-shadow: grey -2px -2px 4px 4px, grey 2px 2px 8px 5px;
+    
+}
+
+.foter {
+    width: 900px;
+    height: 50px;
+    background: url("../images/bg_head.gif") repeat;
+    border-radius: 10px;
+    box-shadow: grey -2px -2px 4px 4px, grey 2px 2px 8px 5px;
+    text-align: center;
+    color: white;
+}
+
+.foter div {
+    padding-top: 15px;
+}
+
+.content {
+    width: 870px;
+    min-height: 500px;
+    background: url("../images/bg_content.jpg") repeat;
+    border-radius: 10px;
+    box-shadow: grey -2px -2px 4px 4px, grey 2px 2px 8px 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 15px;
+}
+
+h1 {
+    font-size: 30px;
+    color: #f31a0d;
+    font-family: "Present_Roman";
+}
+
+.product .image img {
+    width: 220px;
+}
+
+.product {
+    position: relative;
+    float: left;
+    width: 220px;
+    margin: 10px;
+    padding: 10px;
+    background: #F2F2F2;
+    border-radius: 5px;
+    border: black solid 1px;
+    min-height: 300px;
+}
+
+.product .name {
+    font-size: 15px;
+}
+.product .price {
+    font-size: 15px;
+}
+.product .price em{
+    font-size: 15px;
+    color:red;
+}
+.product .desc {
+    font-size: 15px;
+}
+.product .addtocart input, .cart tr td input {
+    width: 30px;
+}
+
+.product .addtocart a {
+    
+}
+.cart {
+    width: 100%;
+    background: white;
+}
+
+.cart .head-cart {
+    background: #D3D3D3;
+}
+.cart .row {
+    background: #f3f3f3;
+}
+.cart tr td {
+    padding: 2px;
+}
+
+.chekout-link {
+    text-decoration: none;
+    position: relative;
+    float: right;
+    color: black;
+}
+.chekout {
+    background: orange;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.chekout-content {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+}
+.chekout-content .text {
+    color: red;
+}
+.cart .total {
+    background: #D3D3D3;
+}
+.error {
+    color:red;
+}
+form#login {
+    position: relative;
+    top: 100px;
+    left: 190px;
+}
+
+.add {   
+    position: relative;
+    float: right;
+    text-decoration: none;
+    color: red;
+    margin-bottom: 20px;
+}
+
+.add div {
+    background: #F8F8F8;
+    border-radius: 5px;
+    box-shadow: #DDFFE6 -1px -1px 3px 2px, #DDFFE6 2px 2px 5px 2px;
+    padding: 1px 5px 1px 5px;
+}
